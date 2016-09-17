@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Acelerómetro</string>
+    <string name="a">Aceleración</string>
+    <string name="ax">a_x</string>
+    <string name="ay">a_y</string>
+    <string name="az">a_z</string>
+    <string name="acx">Aceleración x</string>
+    <string name="acy">Aceleración y</string>
+    <string name="acz">Aceleración z</string>
+    <string name="a_modulo">a_módulo</string>
+    <string name="a_maxima">Aceleración máxima</string>
+    <string name="gravedad_s">Gravedad standard</string>
+</resources>

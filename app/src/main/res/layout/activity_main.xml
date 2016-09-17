@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/colorBlack"
+    >
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10px"
+        android:textSize="20sp"
+        android:textStyle="normal"
+        android:text="@string/a"
+        android:textColor="@color/colorLetter"
+        />
+
+    <View
+        android:background="@color/colorLetter"
+        android:layout_width="fill_parent"
+        android:layout_height="2sp">
+    </View>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="@string/ax"
+        android:textColor="@color/colorLetter"
+        />
+    <TextView
+        android:id="@+id/textViewAX"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/acx"
+        android:textColor="@color/colorLetter"
+        />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="@string/ay"
+        android:textColor="@color/colorLetter"
+        />
+    <TextView
+        android:id="@+id/textViewAY"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/acy"
+        android:textColor="@color/colorLetter"
+        />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="@string/az"
+        android:textColor="@color/colorLetter"
+        />
+    <TextView
+        android:id="@+id/textViewAZ"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/acz"
+        android:textColor="@color/colorLetter"
+        />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="@string/a_modulo"
+        android:textColor="@color/colorLetter"
+        />
+    <TextView
+        android:id="@+id/textViewA"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/a"
+        android:textColor="@color/colorLetter"
+        />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="@string/a_maxima"
+        android:textColor="@color/colorLetter"
+        />
+    <TextView
+        android:id="@+id/textViewAmax"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/a_maxima"
+        android:textColor="@color/colorLetter"
+        />
+
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="italic"
+        android:text="@string/gravedad_s"
+        android:textColor="@color/colorLetter"
+        />
+    <TextView
+        android:id="@+id/textViewG"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10px"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:text="@string/gravedad_s"
+        android:textColor="@color/colorLetter"
+        />
+</LinearLayout>
